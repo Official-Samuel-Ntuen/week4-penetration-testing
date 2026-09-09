@@ -296,7 +296,13 @@ wget https://medirozahospital.com/old/mediroza_db_backup_2019.sql
 
 This penetration test was conducted with full written authorisation from Mediroza General Hospital as part of the Networkwalks Cybersecurity Internship Programme. All findings are documented for educational and remediation purposes only. These techniques must never be applied to any system without explicit written permission from the owner.
 
-**Tester:** Samuel Ntuen
-**Programme:** Networkwalks Cybersecurity Internship
-**Date:** September 2026
-© 2026 Networkwalks. All rights reserved. CONFIDENTIAL.
+---
+
+👤 **Author**/**Tester:** 
+
+**Samuel M. Ntuen**
+
+Cybersecurity Intern — Batch: **B082-NetworkWalks**
+
+LinkedIn: *https://www.linkedin.com/in/samuelntuen/*
+

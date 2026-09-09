@@ -3,6 +3,13 @@
 ![Type](https://img.shields.io/badge/Type-Black--Box%20Pentest-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Risk](https://img.shields.io/badge/Overall%20Risk-CRITICAL-red)
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red)
+![Kali](https://img.shields.io/badge/Kali_Linux-v2026.1-purple)
+![Skill](https://img.shields.io/badge/Penetration_Testing-Skill-red)
+![GitHub](https://img.shields.io/badge/GitHub-Official--Samuel--Ntuen-black?logo=github)
+![NetworkWalks](https://img.shields.io/badge/NetworkWalks-orange)
+![Ethical](https://img.shields.io/badge/Ethical_Hacking-darkgreen)
+![Waqas](https://img.shields.io/badge/-Samuel_M._Ntuen-red)
 
 **Prepared by:** Samuel Ntuen
 **Organisation:** Networkwalks Internship Programme
